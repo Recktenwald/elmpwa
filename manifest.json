@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "scope": "https://recktenwald.github.io/elmpwa/",
-  "start_url": "/",
+  "start_url": "https://recktenwald.github.io/elmpwa/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
